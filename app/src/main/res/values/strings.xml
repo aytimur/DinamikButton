@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DinamikButton</string>
+    <string name="btnAdi">Açıklama Ekle</string>
+    <string name="mesaj">Bur bir dinamik butondur</string>
+    <string name="editText1">Açıklama Ekle</string>
+</resources>
